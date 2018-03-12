@@ -18,6 +18,6 @@ class ChapterCell: UICollectionViewCell {
     
     func configureCell(bgImgName: String){
         bgImage.image = UIImage(named: bgImgName)
-        containerView.layer.cornerRadius = 10
+//        containerView.layer.cornerRadius = 10
     }
 }
