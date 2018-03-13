@@ -17,6 +17,8 @@
 		906943782055F23C00F66056 /* BookmarksVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 906943772055F23C00F66056 /* BookmarksVC.swift */; };
 		9069437A2055F25C00F66056 /* MoreVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 906943792055F25C00F66056 /* MoreVC.swift */; };
 		9069437C205627B900F66056 /* ChapterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9069437B205627B900F66056 /* ChapterCell.swift */; };
+		90F412CD2056EFCE00781C35 /* ReviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90F412CC2056EFCE00781C35 /* ReviewCell.swift */; };
+		90F412CF20575FDE00781C35 /* ChapterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90F412CE20575FDE00781C35 /* ChapterTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		906943772055F23C00F66056 /* BookmarksVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarksVC.swift; sourceTree = "<group>"; };
 		906943792055F25C00F66056 /* MoreVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreVC.swift; sourceTree = "<group>"; };
 		9069437B205627B900F66056 /* ChapterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterCell.swift; sourceTree = "<group>"; };
+		90F412CC2056EFCE00781C35 /* ReviewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewCell.swift; sourceTree = "<group>"; };
+		90F412CE20575FDE00781C35 /* ChapterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 			isa = PBXGroup;
 			children = (
 				9069437B205627B900F66056 /* ChapterCell.swift */,
+				90F412CC2056EFCE00781C35 /* ReviewCell.swift */,
+				90F412CE20575FDE00781C35 /* ChapterTableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -195,6 +201,8 @@
 				9069437A2055F25C00F66056 /* MoreVC.swift in Sources */,
 				906943782055F23C00F66056 /* BookmarksVC.swift in Sources */,
 				9069435B2055C5CF00F66056 /* AppDelegate.swift in Sources */,
+				90F412CF20575FDE00781C35 /* ChapterTableViewCell.swift in Sources */,
+				90F412CD2056EFCE00781C35 /* ReviewCell.swift in Sources */,
 				906943762055F21B00F66056 /* ExercisesVC.swift in Sources */,
 				9069435D2055C5CF00F66056 /* HomeVC.swift in Sources */,
 			);
